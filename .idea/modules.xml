@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ContaBancaria/ContaBancaria.iml" filepath="$PROJECT_DIR$/ContaBancaria/ContaBancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CurrencyConverter/CurrencyConverter.iml" filepath="$PROJECT_DIR$/CurrencyConverter/CurrencyConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DadosFuncionario/DadosFuncionario.iml" filepath="$PROJECT_DIR$/DadosFuncionario/DadosFuncionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NelioAlves.iml" filepath="$PROJECT_DIR$/.idea/NelioAlves.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotaAluno/NotaAluno.iml" filepath="$PROJECT_DIR$/NotaAluno/NotaAluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pensionato/Pensionato.iml" filepath="$PROJECT_DIR$/Pensionato/Pensionato.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Produto/Produto.iml" filepath="$PROJECT_DIR$/Produto/Produto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Retangulo/Retangulo.iml" filepath="$PROJECT_DIR$/Retangulo/Retangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Triangulo/Triangulo.iml" filepath="$PROJECT_DIR$/Triangulo/Triangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VetorAlturas/VetorAlturas.iml" filepath="$PROJECT_DIR$/VetorAlturas/VetorAlturas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VetorAprovados/VetorAprovados.iml" filepath="$PROJECT_DIR$/VetorAprovados/VetorAprovados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VetorMaisVelho/VetorMaisVelho.iml" filepath="$PROJECT_DIR$/VetorMaisVelho/VetorMaisVelho.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VetorNumeroInteiro/VetorNumeroInteiro.iml" filepath="$PROJECT_DIR$/VetorNumeroInteiro/VetorNumeroInteiro.iml" />
+    </modules>
+  </component>
+</project>
